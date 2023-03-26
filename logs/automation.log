@@ -1,0 +1,272 @@
+14:41:00.481 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:00.735 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Arrays in Python
+14:41:06.780 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:07.018 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Arrays in Python
+14:41:12.112 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:12.353 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Arrays Using List
+14:41:17.736 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:17.985 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Arrays Using List
+14:41:23.177 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:23.410 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Basic Operations In Lists
+14:41:29.060 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:29.285 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Basic Operations In Lists
+14:41:34.329 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:34.579 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Applications of Array
+14:41:40.041 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:40.277 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Applications of Array
+14:41:45.689 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Getstarted button under Array
+14:41:45.902 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Arrays in Python
+14:41:46.267 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Practice Questions
+14:41:46.408 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Search the array
+14:41:46.894 [main] INFO  stepdefinitions.ArrayStepDef - User clears the Text Editor
+14:41:47.991 [main] INFO  stepdefinitions.ArrayStepDef - User enters the Search Array Python code
+14:41:50.108 [main] INFO  stepdefinitions.ArrayStepDef - User clicks on Run
+15:23:12.155 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+15:23:12.514 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Getstarted button under Datastructures-Introduction
+15:23:12.698 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Data Structures-Introduction
+15:23:12.711 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Time Complexity
+15:23:12.893 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Time Complexity
+15:23:12.900 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+15:23:13.359 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+15:23:13.365 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+15:23:13.438 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+15:23:14.510 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+15:23:16.663 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+15:23:17.045 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Getstarted button under Datastructures-Introduction
+15:23:17.230 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Time Complexity
+15:23:17.398 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+15:23:17.910 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+15:23:17.985 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+15:23:19.049 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+15:23:21.135 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+15:23:21.505 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Getstarted button under Datastructures-Introduction
+16:49:53.631 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:49:54.309 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+16:49:54.533 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:49:55.049 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+16:49:55.060 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+16:49:55.227 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:49:56.301 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+16:49:58.085 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:49:58.999 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:49:59.483 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+16:49:59.583 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:00.676 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+16:50:02.479 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:50:03.148 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+16:50:03.338 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:50:03.857 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+16:50:03.865 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+16:50:04.121 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:05.198 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+16:50:06.941 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:50:07.796 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:50:08.302 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+16:50:08.396 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:09.484 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+16:50:11.280 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:50:12.069 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+16:50:12.327 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:50:12.817 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+16:50:12.825 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+16:50:12.973 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:14.051 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+16:50:15.827 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:50:16.701 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:50:17.161 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+16:50:17.253 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:18.350 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+16:50:20.152 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:50:20.782 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+16:50:21.001 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:50:21.473 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+16:50:21.481 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+16:50:21.606 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:22.688 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+16:50:24.424 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+16:50:25.815 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+16:50:26.354 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+16:50:26.453 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+16:50:27.530 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+16:50:29.222 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:30:37.979 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:30:38.397 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Getstarted button under Graph
+17:30:38.608 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Graph
+17:30:38.623 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Graph
+17:30:38.842 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:30:39.395 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+17:30:39.405 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+17:30:39.482 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:30:40.551 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+17:30:42.702 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:30:43.107 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Getstarted button under Graph
+17:30:43.291 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Graph
+17:30:43.473 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:30:43.927 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+17:30:44.008 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:30:45.088 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+17:30:47.722 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:30:48.087 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Getstarted button under Graph
+17:30:48.266 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Graph
+17:30:48.275 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Graph Representations
+17:30:48.549 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:30:48.999 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+17:30:49.003 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+17:30:49.087 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:30:50.144 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+17:30:52.158 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:30:52.541 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Getstarted button under Graph
+17:30:52.702 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Graph Representations
+17:30:52.955 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:30:53.405 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+17:30:53.476 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:30:54.529 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+17:30:57.112 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:30:57.883 [main] INFO  stepdefinitions.GraphStepDef - User clicks on Getstarted button under Graph
+17:35:44.281 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:35:44.884 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+17:35:45.098 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:35:45.745 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+17:35:45.754 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+17:35:45.972 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:35:47.072 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+17:35:50.882 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:35:51.928 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:35:53.288 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+17:35:53.375 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:35:54.471 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+17:35:57.633 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:35:58.281 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+17:35:58.483 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:35:58.951 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+17:35:58.958 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+17:35:59.159 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:36:00.249 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+17:36:03.419 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:36:04.314 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:36:04.794 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+17:36:04.904 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:36:05.989 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+17:36:09.137 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:36:09.836 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+17:36:10.048 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:36:10.662 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+17:36:10.669 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+17:36:10.841 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:36:11.915 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+17:36:15.017 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:36:16.003 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:36:16.486 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+17:36:16.616 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:36:17.698 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+17:36:20.890 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:36:21.607 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+17:36:21.877 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:36:22.377 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+17:36:22.385 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+17:36:22.549 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:36:23.616 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+17:36:26.846 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+17:36:28.260 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+17:36:28.714 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+17:36:28.834 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+17:36:29.912 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+17:36:33.079 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:09.657 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:10.378 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:28:10.616 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:28:11.146 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:28:11.168 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:28:11.503 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:28:12.605 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:28:16.426 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:17.414 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:28:17.968 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:28:18.139 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:28:19.234 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:28:22.718 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:23.505 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:28:23.766 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:28:24.361 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:28:24.377 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:28:24.858 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:28:25.965 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:28:29.911 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:30.977 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:28:31.505 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:28:31.659 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:28:32.757 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:28:36.312 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:37.161 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:28:37.407 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:28:37.969 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:28:37.984 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:28:38.349 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:28:39.448 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:28:42.925 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:28:44.050 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:28:44.606 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:28:44.832 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:28:45.931 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:29:01.896 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:29:04.499 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:29:04.750 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:29:05.288 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:29:05.307 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:29:05.592 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:29:06.728 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:29:10.201 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:29:11.300 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:29:11.867 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:29:12.053 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:29:13.160 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:29:16.839 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:36:28.363 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:36:29.068 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:36:29.284 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:36:29.857 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:36:29.866 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:36:30.027 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:36:31.115 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:36:34.770 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:36:36.205 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:36:37.253 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:36:37.358 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:36:38.471 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:36:42.288 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:36:42.941 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:36:43.141 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:36:43.666 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:36:43.674 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:36:43.867 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:36:44.968 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:36:48.390 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:36:49.289 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:36:49.844 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:36:49.940 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:36:51.037 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:36:54.753 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:36:55.423 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:36:55.716 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:36:56.232 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:36:56.241 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:36:56.393 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:36:57.474 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:37:01.052 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:37:01.951 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:37:02.461 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:37:02.568 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:37:03.680 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:37:07.126 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:37:07.933 [main] INFO  stepdefinitions.DataStructureStepDef - User redirected to page with title:Queue
+14:37:08.130 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:37:08.794 [main] INFO  stepdefinitions.DataStructureStepDef - User is navigated to corresponding page with title:Assessment
+14:37:08.802 [main] INFO  stepdefinitions.DataStructureStepDef - User User enters the Python code
+14:37:08.925 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:37:10.013 [main] INFO  stepdefinitions.DataStructureStepDef - The output is displayed
+14:37:14.340 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
+14:37:15.374 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Try here Button
+14:37:15.905 [main] INFO  stepdefinitions.DataStructureStepDef - User enters the wrong Python code
+14:37:16.026 [main] INFO  stepdefinitions.DataStructureStepDef - User clicks on Run button
+14:37:17.117 [main] INFO  stepdefinitions.DataStructureStepDef - The alert messege is displayed
+14:37:20.520 [main] INFO  stepdefinitions.DataStructureStepDef - User is on Home page after logged in
